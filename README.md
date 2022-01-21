@@ -16,7 +16,7 @@
 * ```pkg install python2```
 * ```pip2 install requests ```
 * ```pip2 install mechanize```
-* ```https://github.com/KhalidH3cker2977/allsim```
+* ```git clone https://github.com/KhalidH3cker2977/allsim```
 ### [+] Usage :
 * ```cd allsim```
 * ```python2 allsim.py```
